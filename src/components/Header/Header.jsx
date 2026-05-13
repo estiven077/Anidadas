@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className='header'>
 
-      <h1>Esta es la cebecera de mi e-commerce</h1>
+      <h1>ESTA ES LA CABECERA DE MI E-COMMERCE</h1>
 
     </header>
   )

@@ -1,9 +1,10 @@
 //import React from 'react'
 import { Link,Outlet} from 'react-router-dom'
+import './Productos.css'
 const Productos = () => {
   return (
-    <div>
-        <h2>este es el componente productos</h2>
+    <div className='productos'>
+        <h2>ESTE ES EL COMPONENTE DE PRODUCTOS</h2>
 
         <nav>
             <Link to='/male'>Male</Link>

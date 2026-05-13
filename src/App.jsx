@@ -8,6 +8,7 @@ import Productos from "./pages/Productos"
 import Contact from "./pages/Contact"
 import Male from "./pages/Male"
 import Female from "./pages/Female"
+import './App.css'
 const App = () => {
   return (
     <>

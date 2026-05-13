@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div>
       
-      <h2>Este es el componente de inicio de e- commerce</h2>
+      <h2>ESTE ES EL COMPONENTE DE INICIO DE E-COMMERCE</h2>
 
     </div>
   )

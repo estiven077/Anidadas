@@ -1,10 +1,10 @@
 //import React from 'react'
-
+import './Footer.css'
 const Footer = () => {
   return (
     <footer className="footer">
 
-        <h3>Este es el pie de página de mi e- commerce</h3>
+        <h3>ESTE ES EL PIE DE PÁGINA DE MI E-COMMERCE</h3>
       
     </footer>
   )
